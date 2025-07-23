@@ -90,6 +90,6 @@ This project is a multi-client file transfer system built using **Python** and U
 
 ---
 
-## Project Link: [https://github.com/username/distributed-file-orchestration](https://github.com/Cloud-Computing-Big-Data/EC-Team-32-distributed-file-orchestration-and-synchronization)
+## Project Link: [https://github.com/username/distributed-file-orchestration](https://github.com/vandanaj0110/Distributed-File-Orchestration-And-Synchronization)
 
 
