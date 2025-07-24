@@ -4,9 +4,11 @@
 
 ---
 
-## 📝 Overview
 This project is a multi-client file transfer system built using **Python** and Unix-based **socket programming**. It supports concurrent client connections and enables secure file operations such as uploads, downloads, previews, deletions, and directory listings. The server gracefully handles client disconnections and supports controlled shutdown using `CTRL+C`.
 
+## 📊 Architecture Overview
+
+![](Architecture_diagram.png)
 ---
 
 ## 🌟 Features
