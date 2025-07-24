@@ -9,6 +9,7 @@ This project is a multi-client file transfer system built using **Python** and U
 ## 📊 Architecture Overview
 
 ![](Architecture_diagram.png)
+
 ---
 
 ## 🌟 Features
