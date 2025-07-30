@@ -66,7 +66,7 @@ This project is a multi-client file transfer system built using **Python** and U
    ```bash
    python3 client.py
    ```
-   Before running the above command, just change the name of the ip adress in client.py code with the ip address of the server device
+   Before running the above command, just change the name of the ip address in client.py code with the ip address of the server device
 
 ---
 
